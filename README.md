@@ -1,4 +1,5 @@
-# survey_and_rescue
-Package for implementing the eYRC  2019-20 theme Survey and Rescue
+# SURVEY_AND_RESCUE 
 
-You will be using this package to implement position control and the task logic in further tasks.
+Implementation of eYantra eYRC 2019-20 Theme Survey and Rescue
+
+The package is used to control the motion and position control of the drone.
